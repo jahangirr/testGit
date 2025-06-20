@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Lab/FileContentIndex/8010886f-6702-4dd7-9eb6-9962a4323f14.vsidx
+/.vs/Lab/FileContentIndex/fed02265-4aa4-4312-8dc1-6366068a0972.vsidx
+/.vs/slnx.sqlite
+/.vs/Lab/FileContentIndex/be9890a6-9641-4600-831d-ad735fb06ff4.vsidx
+*.vsidx
+/.vs/slnx.sqlite-journal
